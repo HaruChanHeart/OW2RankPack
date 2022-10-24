@@ -1,2 +1,2 @@
-# OW2RankPack
-Overwatch 2 Rank Icon Pack for OBS Image
+# 오버워치 2 경쟁전 랭크 이미지 팩
+오버워치 2의 경쟁전 랭크를 OBS 방송 화면에 표시할 수 있는 이미지 팩입니다.
